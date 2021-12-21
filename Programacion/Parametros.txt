@@ -1,0 +1,40 @@
+
+1.-Menu pricipal (CARGARA FUNCIONES PRINCIPALES)
+
+	1.1.-Menu subprincipal (contendra las funciones de ejecucion)
+
+	1.2.-Añadir
+		1.2.1.-Medico
+		1.2.2.-paciente
+		1.2.3.-citas
+		
+
+	1.3.-Modificar
+		1.3.1.-Medico
+		1.3.2.-paciente
+		1.3.3.-citas
+		
+
+	1.4.-Eliminar(validara ingresando la ci del paciente/medico)
+		1.4.1.-Medico
+		1.4.2.-paciente
+		1.4.3.-citas
+		
+
+	1.5.-Consultar(validara ingresando la ci del paciente/medico)
+		1.5.1.-Medico
+		1.5.2.-paciente
+		1.5.3.-citas
+
+
+	1.6.-Consulta horarios
+		1.6.1.-Cita buscada y lista de todas las citas.
+
+	1.7.-Concultar especialidad
+		1.7.1.-Citas por especialidad
+	
+
+2.- Datos
+Medico    (ci, nombre, apellido, especialidad)
+paciente  (ci, nombre, apellido)	
+citas	  ((ci medico, ci paciente), (nombre medico, nombre paciente, especialidad), (apellido medico, apellido paciente), hora)
